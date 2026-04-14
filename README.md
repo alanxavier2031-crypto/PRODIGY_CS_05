@@ -1,17 +1,20 @@
-# PRODIGY InfoTech Cyber Security Internship - Task 05
+# 🚀 Prodigy InfoTech Cyber Security Internship
 
-## 🔍 Network Packet Analyzer
+This repository contains all tasks completed during my Cyber Security Internship.
 
-This project is a GUI-based Network Packet Analyzer built using Python and Scapy. It captures and analyzes real-time network traffic.
+## 📂 Tasks
 
-##  Features
-- Real-time packet capture
-- Protocol detection (TCP, UDP, ICMP, DNS, ARP)
-- Source & destination IP analysis
-- Packet payload inspection (HEX & ASCII)
-- GUI using Tkinter
-- Filtering support
+- 🔐 Task 01: Caesar Cipher
+- 🖼️ Task 02: Image Encryption Tool
+- 🔑 Task 03: Password Strength Checker
+- ⌨️ Task 04: Educational Keylogger
+- 🌐 Task 05: Network Packet Analyzer
 
-## ⚙️ How to Run
-```bash
-sudo python3 network_packet_sniffer.py  
+## 📚 Skills Gained
+- Cryptography basics
+- Python programming
+- Network analysis
+- Security concepts
+- Ethical hacking fundamentals
+
+⚠️ All projects are created strictly for educational purposes.
